@@ -25,6 +25,9 @@ Das C-Programm verwendet `softPwm` von wiringPi, um die Helligkeit der roten, gr
 ## Required Components
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/RGB-LED/pictures/Required%20Components.png)
 
+## Build the circuit
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/RGB-LED/pictures/Build%20the%20circuit.png)
+
 
 ### 🖥️ Beispielausgabe
 ```bash
