@@ -33,3 +33,4 @@ Cyan
 | Grün          | GPIO 18    | 1             | PWM-Ausgang für Grün  |
 | Blau          | GPIO 27    | 2             | PWM-Ausgang für Blau  |
 
+
