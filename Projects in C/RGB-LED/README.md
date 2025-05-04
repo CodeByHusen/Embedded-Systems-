@@ -27,10 +27,6 @@ Cyan
 ...
 
 ## 🔌 GPIO-Verbindungen
-| Farbe der LED | GPIO (BCM) | wiringPi Pin | Beschreibung         |
-|---------------|------------|---------------|-----------------------|
-| Rot           | GPIO 17    | 0             | PWM-Ausgang für Rot   |
-| Grün          | GPIO 18    | 1             | PWM-Ausgang für Grün  |
-| Blau          | GPIO 27    | 2             | PWM-Ausgang für Blau  |
+
 
 
