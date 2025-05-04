@@ -24,7 +24,7 @@ Das Python-Skript durchläuft eine Liste vordefinierter RGB-Farben und zeigt jed
 
    ```bash
    python3 rgb_led.py
-![Diagram](Projects%20in%20Python/RGB-LED/pictures/Required%20Components.png)
+![Diagram](Projects in Python/RGB-LED/pictures/Required Components.png)
 
 
 
