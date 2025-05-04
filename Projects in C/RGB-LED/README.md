@@ -48,4 +48,3 @@ Cyan
 | Blau          | GPIO 27    | 2             | PWM-Ausgang für Blau  |
 
 =======
->>>>>>> 77ee428e4930485e879033a3f8cb82ae9f8ffda1
