@@ -29,13 +29,6 @@ Das C-Programm verwendet `softPwm` von wiringPi, um die Helligkeit der roten, gr
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/RGB-LED/pictures/Build%20the%20circuit.png)
 
 
-## 🔌 GPIO-Verbindungen
-| Farbe der LED | GPIO (BCM) | wiringPi Pin | Beschreibung         |
-|---------------|------------|---------------|-----------------------|
-| Rot           | GPIO 17    | 0             | PWM-Ausgang für Rot   |
-| Grün          | GPIO 18    | 1             | PWM-Ausgang für Grün  |
-| Blau          | GPIO 27    | 2             | PWM-Ausgang für Blau  |
-
 ### 🖥️ Beispielausgabe
 ```bash
 Red
