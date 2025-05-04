@@ -15,6 +15,13 @@ Dieses Projekt steuert eine RGB-LED mithilfe von Pulse-Width Modulation (PWM) au
 
 Das C-Programm verwendet `softPwm` von wiringPi, um die Helligkeit der roten, grünen und blauen Kanäle der RGB-LED zu steuern. Das Programm wechselt alle 500 ms durch verschiedene Farben.
 
+## 🔌 GPIO-Verbindungen
+| Farbe der LED | GPIO (BCM) | wiringPi Pin | Beschreibung         |
+|---------------|------------|---------------|-----------------------|
+| Rot           | GPIO 17    | 0             | PWM-Ausgang für Rot   |
+| Grün          | GPIO 18    | 1             | PWM-Ausgang für Grün  |
+| Blau          | GPIO 27    | 2             | PWM-Ausgang für Blau  |
+
 ### 🖥️ Beispielausgabe
 
 ```bash
@@ -26,7 +33,7 @@ Purple
 Cyan
 ...
 
-## 🔌 GPIO-Verbindungen
+
 
 
 
