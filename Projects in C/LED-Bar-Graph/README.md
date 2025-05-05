@@ -41,8 +41,8 @@ Die LED-Pins im Code sind als int pins[10] = {0,1,2,3,4,5,6,8,9,10}; definiert. 
 | 9     | 10           | GPIO 8  | Pin 24             | LED 10       |
 
 
-# Required Components
+## Required Components
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/LED-Bar-Graph/pictures/Required%20Components.png)
 
-# Build the circuit
+## Build the circuit
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/LED-Bar-Graph/pictures/Build%20the%20circuit.png)
