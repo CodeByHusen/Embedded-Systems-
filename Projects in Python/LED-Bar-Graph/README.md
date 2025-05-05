@@ -43,6 +43,12 @@ Die LEDs sind wie folgt an die GPIO-Pins des Raspberry Pi angeschlossen:
 
 ---
 
+# Required Components
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/LED-Bar-Graph/pictures/Required%20Components.png)
+
+# Build the circuit
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/LED-Bar-Graph/pictures/Build%20the%20circuit.png)
+
 ## Voraussetzungen
 
 - Raspberry Pi mit Raspbian OS
