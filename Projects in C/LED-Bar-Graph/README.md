@@ -23,11 +23,8 @@ Diese Muster laufen in einer Endlosschleife. Zu Beginn werden alle verwendeten G
 
 Die LED-Pins werden über ein Array festgelegt:
 
-```c
 int pins[10] = {0,1,2,3,4,5,6,8,9,10};
 
-
-## Pinbelegung (wiringPi → GPIO → Physikalisch)
 Die LED-Pins im Code sind als int pins[10] = {0,1,2,3,4,5,6,8,9,10}; definiert. Das entspricht folgender Zuordnung:
 
 | Index | wiringPi Pin | GPIO    | Physikalischer Pin | Beschreibung |
