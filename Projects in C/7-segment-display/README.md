@@ -30,6 +30,9 @@ Das Programm sendet 8-Bit-Daten seriell vom Raspberry Pi an das Schieberegister 
 - 7–8 Widerstände (~220Ω) für Segmente
 - Steckbrett & optional Stromversorgung
 
+  ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/7-segment-display/pictures/Komponenten.png)
+
+
 ---
 
 ## Schaltplan / Verdrahtung
