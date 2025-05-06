@@ -49,12 +49,15 @@ Weitere wichtige Verbindungen:
 - 3.3V/5V (Pi) → VCC (Pin 16 am 74HC595)
 - Q0–Q7 (Pins 15, 1–7) → Segmente a–g und ggf. dp der 7-Segment-Anzeige (über Vorwiderstände)
 
+  ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/7-segment-display/pictures/Diagram.png)
+  ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/7-segment-display/pictures/Diagram1.png)
+
 ---
 
 ## Segmentcode-Tabelle
 
 Die Segmentcodes im Programm entsprechen der **gemeinsamen Kathoden-Konfiguration**. Jeder Bitwert (0–7) steht für ein Segment (a–g, dp).
-
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/7-segment-display/pictures/Prinzip.png)
 ```c
 unsigned char SegCode[16] = {
     0x3f, // 0
