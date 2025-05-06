@@ -30,6 +30,7 @@ Das Programm sendet 8-Bit-Daten seriell vom Raspberry Pi an das 74HC595-Schieber
 - Widerstände (ca. 220Ω) für die Segmente der 7-Segment-Anzeige
 - Steckbrett & optional Stromversorgung
 
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/7-segment-display/pictures/Komponenten.png)
 ---
 
 ## Schaltplan / Verdrahtung
