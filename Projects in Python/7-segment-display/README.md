@@ -11,9 +11,7 @@ Dieses Projekt zeigt, wie man eine **7-Segment-Anzeige** mithilfe eines **74HC59
 - [Schaltplan / Verdrahtung](#schaltplan--verdrahtung)
 - [Segmentcode-Tabelle](#segmentcode-tabelle)
 - [Voraussetzungen](#voraussetzungen)
-- [Kompilierung und Ausführung](#kompilierung-und-ausführung)
-- [Funktionsweise](#funktionsweise)
-- [Autor & Lizenz](#autor--lizenz)
+
 
 ---
 
@@ -73,3 +71,15 @@ segCode = [
     0x79,  # E
     0x71   # F
 ]
+```
+
+##  Voraussetzungen
+- Betriebssystem: Raspberry Pi OS (Lite oder Desktop)
+
+- Abhängigkeit: gpiozero (Python-Bibliothek zur Steuerung der GPIOs)
+
+- Entwicklungsumgebung: Python 3 und ein Texteditor oder IDE
+
+- Installierte Bibliotheken:
+
+    - gpiozero: sudo pip3 install gpiozero
