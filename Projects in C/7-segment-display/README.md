@@ -11,9 +11,7 @@ Dieses Projekt demonstriert die Ansteuerung einer **7-Segment-Anzeige** über ei
 - [Schaltplan / Verdrahtung](#schaltplan--verdrahtung)
 - [Segmentcode-Tabelle](#segmentcode-tabelle)
 - [Voraussetzungen](#voraussetzungen)
-- [Kompilierung und Ausführung](#kompilierung-und-ausführung)
-- [Funktionsweise](#funktionsweise)
-- [Autor & Lizenz](#autor--lizenz)
+
 
 ---
 
@@ -73,3 +71,15 @@ unsigned char SegCode[16] = {
     0x79, // E
     0x71  // F
 };
+```
+---
+
+## Voraussetzungen
+Betriebssystem: Raspberry Pi OS (Lite oder Desktop)
+
+Abhängigkeit: wiringPi
+
+Entwicklungsumgebung: gcc, Terminalzugriff
+
+⚠️ Achtung: wiringPi wird nicht mehr gepflegt, funktioniert aber weiterhin zuverlässig.
+Bei neueren Systemen kann ggf. auf pigpio oder libgpiod umgestellt werden.
