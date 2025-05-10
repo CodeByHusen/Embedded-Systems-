@@ -11,6 +11,9 @@ Dieses Python-Projekt zeigt, wie ein 4-stelliges 7-Segment-Display mithilfe eine
 - 4-stellige 7-Segment-Anzeige
 - Breadboard und Jumper-Kabel
 
+  ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/4-digit%207-segment-display/pictures/Komponenten.png)
+  
+
 ## Pinbelegung
 
 ### 74HC595-Ansteuerung
