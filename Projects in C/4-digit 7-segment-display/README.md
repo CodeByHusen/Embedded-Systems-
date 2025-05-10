@@ -9,6 +9,8 @@ Dieses Projekt zeigt, wie man ein 4-stelliges 7-Segment-Display mithilfe eines 7
 - 74HC595 Schieberegister
 - 4-stelliges 7-Segment-Display
 - Breadboard und Jumper-Kabel
+ ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/4-digit%207-segment-display/pictures/Komponenten.png)
+
 
 ## Pinbelegung
 
@@ -21,6 +23,8 @@ Dieses Projekt zeigt, wie man ein 4-stelliges 7-Segment-Display mithilfe eines 7
 | Digit 2        | 3            |
 | Digit 3        | 2            |
 | Digit 4        | 0            |
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/4-digit%207-segment-display/pictures/Die%20Schaltung.png)
+ ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/4-digit%207-segment-display/pictures/Schematische-Darstellung.png)
 
 ## Kompilierung
 
