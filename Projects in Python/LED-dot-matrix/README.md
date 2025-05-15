@@ -8,6 +8,7 @@ Dieses Python-Skript verwendet einen **Raspberry Pi** und ein **74HC595 Schieber
 - 74HC595 Schieberegister
 - LED-Matrix (Anoden und Kathoden entsprechend verschaltet)
 - Verbindungskabel
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/LED-dot-matrix/pictures/Komponenten.png)
 
 ## GPIO-Pinbelegung
 
@@ -16,6 +17,9 @@ Dieses Python-Skript verwendet einen **Raspberry Pi** und ein **74HC595 Schieber
 | GPIO 17           | Serieller Dateneingang (SDI)|
 | GPIO 18           | Register Clock (RCLK)       |
 | GPIO 27           | Shift Clock (SRCLK)         |
+
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/LED-dot-matrix/pictures/Darstellung.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/LED-dot-matrix/pictures/Schaltung.png)
 
 ## Funktionsweise
 
