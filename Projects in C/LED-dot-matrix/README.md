@@ -7,13 +7,15 @@ Dieses C-Programm steuert mithilfe des 74HC595-Schieberegisters eine LED-Matrix 
 - Raspberry Pi mit installiertem Linux (z. B. Raspberry Pi OS)
 - Installierte [wiringPi](http://wiringpi.com/) Bibliothek (Achtung: bei neueren Raspberry Pi OS Versionen ggf. manuell installieren)
 - GCC zum Kompilieren des C-Codes
-
+ 
 ## Hardware-Komponenten
 
 - Raspberry Pi
 - 74HC595 Schieberegister
 - LED-Matrix (anoden-/kathoden-gesteuert)
 - Verbindungskabel
+
+  ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/LED-dot-matrix/pictures/Komponenten.png)
 
 ## GPIO-Pinbelegung (wiringPi-Pin-Nummern)
 
@@ -24,6 +26,10 @@ Dieses C-Programm steuert mithilfe des 74HC595-Schieberegisters eine LED-Matrix 
 | 2            | SRCLK       | SH_CP (Takt)      |
 
 > **Hinweis:** WiringPi-Nummern unterscheiden sich von GPIO-BCM-Nummern. Du kannst mit `gpio readall` die Zuordnung prüfen.
+
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/LED-dot-matrix/pictures/Darstellung.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/LED-dot-matrix/pictures/Schaltung.png)
+
 
 ## Kompilieren
 
