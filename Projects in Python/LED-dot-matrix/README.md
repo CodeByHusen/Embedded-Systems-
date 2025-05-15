@@ -33,10 +33,7 @@ Dieses Python-Skript verwendet einen **Raspberry Pi** und ein **74HC595 Schieber
 
 2. **Skript starten:**
     ```bash
-   ./matrix_steuerung.py
-   ```
-Alternativ mit Python 3 direkt ausführen:
-    ```bash
    python3 matrix_steuerung.py
    ```
+
    
