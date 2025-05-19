@@ -6,9 +6,9 @@ def setup():
     # LCD mit I2C-Adresse 0x27 initialisieren und Hintergrundbeleuchtung aktivieren
     LCD1602.init(0x27, 1)
     # Die Nachricht 'Greetings!' in der oberen linken Ecke anzeigen (Zeile 0, Spalte 0)
-    LCD1602.write(0, 0, 'Greetings!')
+    LCD1602.write(0, 0, 'Hi')
     # Die Nachricht 'From SunFounder' in der zweiten Zeile anzeigen (Zeile 1, Spalte 1)
-    LCD1602.write(1, 1, 'From SunFounder')
+    LCD1602.write(1, 0, 'World')
     time.sleep(2)  # Nachrichten für 2 Sekunden anzeigen
 
 try:
