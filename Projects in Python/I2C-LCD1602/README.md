@@ -9,6 +9,7 @@ Dieses Projekt demonstriert, wie man ein LCD1602-Display mit I2C-Schnittstelle �
 - LCD1602-Modul mit I2C (z. B. PCF8574T)
 - Python 3
 - `LCD1602.py`-Modul im selben Verzeichnis
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/I2C-LCD1602/pictures/Components.png)
 
 ## 🔧 Verkabelung
 
