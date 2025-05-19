@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import LCD1602  # Modul für die Schnittstelle mit LCD1602 importieren
 import time     # Modul für Timing-Funktionen importieren
 
