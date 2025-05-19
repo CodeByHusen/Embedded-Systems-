@@ -19,6 +19,8 @@ Dieses Projekt demonstriert, wie man ein LCD1602-Display mit I2C-Schnittstelle Ã
 | SDA           | GPIO 2 (SDA)      |
 | SCL           | GPIO 3 (SCL)      |
 
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/I2C-LCD1602/pictures/Circuit-diagram.png)
+
 > Stelle sicher, dass I2C in `raspi-config` aktiviert ist:
 > ```bash
 > sudo raspi-config
