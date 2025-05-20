@@ -8,14 +8,15 @@ Dieses Projekt verwendet die Python-Bibliothek `gpiozero`, um einen aktiven Buzz
 - Aktiver Buzzer (aktiv-low)
 - Verbindungskabel
 - Steckbrett (optional)
-
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Active-Summer/pictures/Komponenten.png)
 ### Schaltung
 
 Der aktive Buzzer wird wie folgt angeschlossen:
 
 - **+ (Plus)** → **GPIO 17** (BCM)
 - **- (Minus)** → **GND**
-
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Active-Summer/pictures/Schaltkreis.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Active-Summer/pictures/Schaltplan.png)
 **Hinweis:** Dieser Buzzer ist *aktiv-low*, d.h. er piept, wenn der GPIO auf LOW geschaltet wird.
 
 ## Software-Anforderungen
@@ -28,3 +29,5 @@ Der aktive Buzzer wird wie folgt angeschlossen:
 ```bash
 sudo apt update
 sudo apt install python3-gpiozero
+
+
