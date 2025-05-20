@@ -8,12 +8,12 @@ Dieses Projekt zeigt, wie man einen aktiven Buzzer (Summer) mit der Bibliothek `
 - Aktiver Buzzer (aktiv-low)
 - Verbindungskabel
 - Steckbrett (optional)
- ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Active-Summer/pictures/Komponenten.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Active-Summer/pictures/Komponenten.png)
 ### Schaltung
 
 - **+ (Plus)** → **GPIO 17** (physisch Pin 11 / wiringPi-Pin 0)
 - **- (Minus)** → **GND**
-  ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Active-Summer/pictures/Schaltkreis.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Active-Summer/pictures/Schaltkreis.png)
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Active-Summer/pictures/Schaltplan.png)
 **Hinweis:** Der verwendete Buzzer ist *aktiv-low*, das heißt:  
 - `LOW` (0V) = **Ton an**  
