@@ -17,6 +17,7 @@ Der aktive Buzzer wird wie folgt angeschlossen:
 - **- (Minus)** → **GND**
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Active-Summer/pictures/Schaltkreis.png)
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Active-Summer/pictures/Schaltplan.png)
+
 **Hinweis:** Dieser Buzzer ist *aktiv-low*, d.h. er piept, wenn der GPIO auf LOW geschaltet wird.
 
 ## Software-Anforderungen
