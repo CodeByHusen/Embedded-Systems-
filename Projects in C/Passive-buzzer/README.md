@@ -8,7 +8,7 @@ Dieses C-Programm spielt zwei einfache Melodien über einen Piezo-Buzzer, der ü
 - Raspberry Pi (z. B. Pi 3, 4, Zero)
 - Piezo-Buzzer
 - Verbindung zu **GPIO Pin 0** (wiringPi-Nummerierung)
-
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Passive-buzzer/pictures/Komponenten.png)
 ### Software
 - [wiringPi](http://wiringpi.com/)
   - ⚠️ Hinweis: wiringPi ist offiziell veraltet, funktioniert aber weiterhin auf vielen Systemen.
@@ -20,7 +20,8 @@ Der Piezo-Buzzer wird wie folgt angeschlossen:
 
 - Signal: **GPIO 17** (wiringPi Pin 0)
 - GND: GND vom Raspberry Pi
-
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Passive-buzzer/pictures/Schaltkreis.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Passive-buzzer/pictures/Schaltplan.png)
 ## ▶️ Kompilieren & Ausführen
 
 ```bash
