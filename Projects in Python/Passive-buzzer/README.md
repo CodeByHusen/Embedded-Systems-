@@ -8,7 +8,9 @@ Dieses Python-Skript spielt eine einfache, traurige Melodie in a-Moll über eine
 - **Software**:
   - Python 3
   - `gpiozero`-Bibliothek (`pip install gpiozero`)
-
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Passive-buzzer/pictures/Komponenten.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Passive-buzzer/pictures/Schaltkreis.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Passive-buzzer/pictures/Schaltplan.png)
 ## Aufbau
 
 Der TonalBuzzer wird über den GPIO-Pin 17 angesteuert. Das Skript definiert eine traurige Melodie mit Noten und deren Dauer. Mithilfe der Funktion `play()` werden die Töne nacheinander abgespielt.
