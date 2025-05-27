@@ -8,7 +8,8 @@ Das Programm wechselt automatisch die Drehrichtung des Motors zwischen im Uhrzei
 - Raspberry Pi (mit GPIO-Pins)
 - Python 3
 - Bibliothek [`gpiozero`](https://gpiozero.readthedocs.io/)
-- Ein Motor (z. B. DC-Motor) mit Motorentreiber
+- Ein Motor (z. B. DC-Motor) mit Motorentreiber.
+  
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Motor/pictures/Komponenten.png)
 ## GPIO-Pinbelegung
 
@@ -16,7 +17,8 @@ Das Programm wechselt automatisch die Drehrichtung des Motors zwischen im Uhrzei
 |--------------|-----------|
 | Vorwärts     | 17        |
 | Rückwärts    | 27        |
-| Enable (PWM) | 22        |
+| Enable (PWM) | 22        |.
+
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Motor/pictures/Schaltplan.png)
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Motor/pictures/Schaltung.png)
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Motor/pictures/L293D.png)
