@@ -22,7 +22,7 @@ Das Programm lässt den Motor abwechselnd im und gegen den Uhrzeigersinn laufen,
 
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Motor/pictures/Schaltplan.png)
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Motor/pictures/Schaltung.png)
-![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Motor/pictures/L293D.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Motor/pictures/L293D .png)
 ## Installation
 
 1. Installiere `wiringPi` (sofern nicht vorhanden):
