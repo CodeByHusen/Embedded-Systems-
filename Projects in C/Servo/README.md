@@ -9,6 +9,10 @@ Dieses Programm steuert einen Servo-Motor über GPIO1 (WiringPi Pin 1) eines Ras
 - Ein Servo-Motor, angeschlossen an GPIO1
 - C-Compiler (z. B. `gcc`)
 
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Servo/pictures/Komponenten.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Servo/pictures/Servo.png)
+
+
 ## Abhängigkeiten
 
 Dieses Programm nutzt folgende Bibliotheken:
@@ -40,3 +44,5 @@ Das Programm:
 - Servo-VCC: 5V-Pin des Raspberry Pi
 
 - Servo-GND: GND des Raspberry Pi
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Servo/pictures/Schematische Darstellung.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Servo/pictures/Schematische Schaltung.png)
