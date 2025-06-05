@@ -46,4 +46,4 @@ Das Programm:
 - Servo-GND: GND des Raspberry Pi
 
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Servo/pictures/Schematische%20Darstellung.png)
-![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Servo/pictures/Schematische%20Schaltung.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Servo/pictures/Schaltung.png)
