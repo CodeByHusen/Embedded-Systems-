@@ -8,6 +8,7 @@ Dieses Python-Programm steuert einen Servo-Motor über GPIO18 eines Raspberry Pi
 - Ein Servo-Motor, angeschlossen an GPIO18
 - Python 3
 - Bibliothek: `gpiozero`
+  
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Servo/pictures/Komponenten.png)
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Servo/pictures/Servo.png)
 
