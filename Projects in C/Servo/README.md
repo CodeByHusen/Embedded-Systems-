@@ -44,5 +44,6 @@ Das Programm:
 - Servo-VCC: 5V-Pin des Raspberry Pi
 
 - Servo-GND: GND des Raspberry Pi
-![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Servo/pictures/Schematische Darstellung.png)
-![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Servo/pictures/Schematische Schaltung.png)
+
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Servo/pictures/Schematische%20Darstellung.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Servo/pictures/Schematische%20Schaltung.png)
