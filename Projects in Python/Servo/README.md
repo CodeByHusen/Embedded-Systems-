@@ -8,6 +8,8 @@ Dieses Python-Programm steuert einen Servo-Motor über GPIO18 eines Raspberry Pi
 - Ein Servo-Motor, angeschlossen an GPIO18
 - Python 3
 - Bibliothek: `gpiozero`
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Servo/pictures/Komponenten.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Servo/pictures/Servo.png)
 
 ## Installation der Abhängigkeiten
 
@@ -23,6 +25,8 @@ sudo apt install python3-gpiozero
 - VCC: 5V (z. B. Pin 2)
 
 - GND: Masse (z. B. Pin 6)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Servo/pictures/Schematische%20Darstellung.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Servo/pictures/Schematische%20Schaltung.png)
 
 ## Verwendung
 Speichere das Skript z. B. unter servo_steuerung.py.
