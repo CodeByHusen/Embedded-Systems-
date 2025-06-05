@@ -28,7 +28,7 @@ sudo apt install python3-gpiozero
 - GND: Masse (z. B. Pin 6)
   
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Servo/pictures/Schematische%20Darstellung.png)
-![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Servo/pictures/Schematische%20Schaltung.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Servo/pictures/Schaltung.png)
 
 ## Verwendung
 Speichere das Skript z. B. unter servo_steuerung.py.
