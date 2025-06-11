@@ -14,6 +14,7 @@ Dieses Python-Skript steuert ein Relais über die GPIO-Pins eines Raspberry Pi m
 - 🟨 1 × Widerstand (1 kΩ – für Steuerkreis)
 - 🔌 Mehrere Jumper-Kabel
 - 🔲 1 × Breadboard
+
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Relais/pictures/Komponenten.png)
 ---
 
@@ -30,3 +31,4 @@ Das Skript erledigt Folgendes:
 
 ## 💡 Schaltplan (Übersicht)
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Relais/pictures/Schaltplan.png)
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Relais/pictures/Schaltung.png)
