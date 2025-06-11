@@ -15,6 +15,8 @@ Dieses C-Programm dient zur Steuerung eines Relaismoduls über einen Raspberry P
 - 🔲 1 × Breadboard
   
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Relais/pictures/Komponenten.png)
+
+
 ---
 
 ## 📌 Funktionsweise
@@ -44,7 +46,7 @@ Während jeder Schaltaktion gibt das Programm Statusmeldungen auf der Konsole au
 | GPIO17                   | Pin 0         | Steuerung des Relais |
 
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Relais/pictures/Schaltplan.png)
-
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Relais/pictures/Schaltung.png)
 ### Beispielverbindung:
 
 - **VCC** des Relais → **5V** am Raspberry Pi  
