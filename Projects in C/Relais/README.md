@@ -42,6 +42,7 @@ Während jeder Schaltaktion gibt das Programm Statusmeldungen auf der Konsole au
 | Raspberry Pi GPIO (BCM) | WiringPi-Pin | Funktion          |
 |--------------------------|---------------|-------------------|
 | GPIO17                   | Pin 0         | Steuerung des Relais |
+
 ![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Relais/pictures/Schaltplan.png)
 
 ### Beispielverbindung:
