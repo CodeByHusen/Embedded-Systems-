@@ -29,4 +29,4 @@ Das Skript erledigt Folgendes:
 ---
 
 ## 💡 Schaltplan (Übersicht)
-
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20Python/Relais/pictures/Schaltplan.png)
