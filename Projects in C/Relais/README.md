@@ -3,16 +3,18 @@
 Dieses C-Programm dient zur Steuerung eines Relaismoduls über einen Raspberry Pi mithilfe der WiringPi-Bibliothek. Das Relais wird in einer Endlosschleife regelmäßig ein- und ausgeschaltet. Dies kann beispielsweise verwendet werden, um einfache Automatisierungsaufgaben durchzuführen, wie das zeitgesteuerte Schalten von Geräten.
 
 ---
-## Voraussetzungen
-- Raspberry Pi (mit GPIO-Pins)
-- 1 * Relay
-- 1 *1N4007 Diode
-- 1 * LED
-- Several Jumper Wires
-- 1 * Resistor(220Ω) 
-- 1 * Resistor(1KΩ)
-- Breadboard 
+## 🔧 Verwendete Komponenten
 
+- 🖥️ Raspberry Pi (mit GPIO-Unterstützung)
+- 🔌 1 × Relaismodul
+- 💡 1 × LED
+- 🔁 1 × 1N4007-Diode (zum Schutz vor Spannungsspitzen)
+- 🟦 1 × Widerstand (220 Ω – für die LED)
+- 🟨 1 × Widerstand (1 kΩ – für Steuerkreis)
+- 🔌 Mehrere Jumper-Kabel
+- 🔲 1 × Breadboard
+  
+![Diagram](https://raw.githubusercontent.com/CodeByHusen/Embedded-Systems-/main/Projects%20in%20C/Relais/pictures/Komponenten.png)
 ---
 
 ## 📌 Funktionsweise
